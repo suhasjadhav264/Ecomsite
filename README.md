@@ -1,9 +1,14 @@
+<<<<<<< HEAD
+=======
+```markdown
+>>>>>>> 9d8501006b3031c0d82551995052ed594935bfd5
 # E-Comsite
 
 A simple e-commerce website built with HTML, CSS, and JavaScript using Vite. The website features a product listing, add-to-cart functionality, and a responsive design for different screen sizes.
 
 ## Table of Contents
 
+<<<<<<< HEAD
 - [E-Comsite](#e-comsite)
   - [Table of Contents](#table-of-contents)
   - [Project Description](#project-description)
@@ -14,6 +19,14 @@ A simple e-commerce website built with HTML, CSS, and JavaScript using Vite. The
   - [Built With](#built-with)
   - [Contributing](#contributing)
   - [Authors and Acknowledgments](#authors-and-acknowledgments)
+=======
+1. [Project Description](#project-description)
+2. [Getting Started](#getting-started)
+3. [Features](#features)
+4. [Built With](#built-with)
+5. [Contributing](#contributing)
+6. [Authors and Acknowledgments](#authors-and-acknowledgments)
+>>>>>>> 9d8501006b3031c0d82551995052ed594935bfd5
 
 ## Project Description
 
@@ -28,7 +41,10 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them.
 
 - Node.js
+<<<<<<< HEAD
 
+=======
+>>>>>>> 9d8501006b3031c0d82551995052ed594935bfd5
   ```bash
   npm install npm@latest -g
   ```
@@ -124,3 +140,8 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 ## Authors and Acknowledgments
 
 - Your Name
+<<<<<<< HEAD
+=======
+```
+This README.md file provides detailed instructions and information about the E-Comsite project.
+>>>>>>> 9d8501006b3031c0d82551995052ed594935bfd5
