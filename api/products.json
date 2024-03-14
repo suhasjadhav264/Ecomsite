@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Organic Grocery Bundle",
+      "category": "Groceries",
+      "brand": "Farm Fresh",
+      "price": 999.99,
+      "stock": 50,
+      "description": "A bundle of fresh organic produce including fruits, vegetables, and herbs sourced directly from local farms.",
+      "image": "/images/cartitem1.png"
+    },
+    {
+      "id": 2,
+      "name": "Organic Honey",
+      "category": "Honey",
+      "brand": "EcoBuzz",
+      "price": 499.99,
+      "stock": 100,
+      "image": "/images/cartitem2.png",
+      "description": "Pure and natural organic honey sourced from sustainable beekeeping practices, perfect for sweetening your dishes."
+    },
+    {
+      "id": 3,
+      "name": "Organic Pasta",
+      "category": "Pasta",
+      "brand": "FarmFresh",
+      "price": 149.99,
+      "stock": 30,
+      "image": "/images/cartitem3.png",
+      "description": "Delicious organic pasta made from premium durum wheat, perfect for a hearty and healthy meal."
+    },
+    {
+      "id": 4,
+      "name": "Organic Brown Rice",
+      "category": "Grains & Pulses",
+      "brand": "FarmFresh",
+      "price": 199.99,
+      "stock": 20,
+      "image": "/images/cartitem4.png",
+      "description": "Premium quality organic brown rice, rich in nutrients and fiber, perfect for a healthy diet."
+    },
+    {
+      "id": 5,
+      "name": "Organic Eggs",
+      "category": "Dairy & Eggs",
+      "brand": "HappyHens",
+      "price": 149.99,
+      "stock": 30,
+      "image": "/images/cartitem5.png",
+      "description": "Farm-fresh organic eggs, rich in protein and essential nutrients, ideal for breakfast or baking."
+    },
+    {
+      "id": 6,
+      "name": "Whole Grain Bread",
+      "category": "Bakery",
+      "brand": "Baker's Delight",
+      "price": 199.99,
+      "stock": 20,
+      "image": "/images/cartitem6.png",
+      "description": "Nutritious and delicious whole grain bread, baked fresh daily."
+    }
+  ]
