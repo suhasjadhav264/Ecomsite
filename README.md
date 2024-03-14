@@ -1,4 +1,4 @@
-# E-Comsite - <sup><sub><sub>[Click Here](https://jadhav-general-store.netlify.app/)<sub></sub></sup> 
+# E-Comsite - <sup><sub><sub>[Visit Here](https://jadhav-general-store.netlify.app/)<sub></sub></sup> 
 
 E-Comsite is an e-commerce website built with HTML, CSS, and JavaScript using Vite. The website features a product listing, add-to-cart functionality, price updates, and a responsive design for different screen sizes.
 
