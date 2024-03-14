@@ -105,7 +105,7 @@ A step-by-step series of examples that tell you how to get a development environ
 
 - Navigation bar with links to different sections of the website.
 - Product listing with images, names, headlines, prices, and add-to-cart buttons.
-- Cart functionality that keeps track of added products and their quantities.
+- Cart functionality that keeps track of added products, prices and their quantities.
 - Responsive design for different screen sizes.
 
 ## Built With
