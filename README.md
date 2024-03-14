@@ -1,14 +1,9 @@
-<<<<<<< HEAD
-=======
-```markdown
->>>>>>> 9d8501006b3031c0d82551995052ed594935bfd5
 # E-Comsite
 
-A simple e-commerce website built with HTML, CSS, and JavaScript using Vite. The website features a product listing, add-to-cart functionality, and a responsive design for different screen sizes.
+A simple e-commerce website built with HTML, CSS, and JavaScript using Vite. The website features a product listing, add-to-cart functionality, price update feature that allows dynamic updating of prices without page reload, and a responsive design for different screen sizes.
 
 ## Table of Contents
 
-<<<<<<< HEAD
 - [E-Comsite](#e-comsite)
   - [Table of Contents](#table-of-contents)
   - [Project Description](#project-description)
@@ -17,16 +12,7 @@ A simple e-commerce website built with HTML, CSS, and JavaScript using Vite. The
     - [Installing](#installing)
   - [Features](#features)
   - [Built With](#built-with)
-  - [Contributing](#contributing)
-  - [Authors and Acknowledgments](#authors-and-acknowledgments)
-=======
-1. [Project Description](#project-description)
-2. [Getting Started](#getting-started)
-3. [Features](#features)
-4. [Built With](#built-with)
-5. [Contributing](#contributing)
-6. [Authors and Acknowledgments](#authors-and-acknowledgments)
->>>>>>> 9d8501006b3031c0d82551995052ed594935bfd5
+
 
 ## Project Description
 
@@ -41,10 +27,7 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them.
 
 - Node.js
-<<<<<<< HEAD
 
-=======
->>>>>>> 9d8501006b3031c0d82551995052ed594935bfd5
   ```bash
   npm install npm@latest -g
   ```
@@ -125,7 +108,8 @@ A step-by-step series of examples that tell you how to get a development environ
 
 - Navigation bar with links to different sections of the website.
 - Product listing with images, names, headlines, prices, and add-to-cart buttons.
-- Cart functionality that keeps track of added products and their quantities.
+- Cart functionality that keeps track of added products, prices and their quantities.
+- Price update feature that allows dynamic updating of prices without page reload.
 - Responsive design for different screen sizes.
 
 ## Built With
@@ -133,15 +117,3 @@ A step-by-step series of examples that tell you how to get a development environ
 - Vite - Fast and lean development environment.
 - npm - Dependency management.
 
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Authors and Acknowledgments
-
-- Your Name
-<<<<<<< HEAD
-=======
-```
-This README.md file provides detailed instructions and information about the E-Comsite project.
->>>>>>> 9d8501006b3031c0d82551995052ed594935bfd5
