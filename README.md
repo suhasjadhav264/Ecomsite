@@ -8,8 +8,7 @@ A simple e-commerce website built with HTML, CSS, and JavaScript using Vite. The
 2. [Getting Started](#getting-started)
 3. [Features](#features)
 4. [Built With](#built-with)
-5. [Contributing](#contributing)
-6. [Authors and Acknowledgments](#authors-and-acknowledgments)
+
 
 ## Project Description
 
