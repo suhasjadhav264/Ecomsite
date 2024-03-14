@@ -1,16 +1,19 @@
-```markdown
 # E-Comsite
 
 A simple e-commerce website built with HTML, CSS, and JavaScript using Vite. The website features a product listing, add-to-cart functionality, and a responsive design for different screen sizes.
 
 ## Table of Contents
 
-1. [Project Description](#project-description)
-2. [Getting Started](#getting-started)
-3. [Features](#features)
-4. [Built With](#built-with)
-5. [Contributing](#contributing)
-6. [Authors and Acknowledgments](#authors-and-acknowledgments)
+- [E-Comsite](#e-comsite)
+  - [Table of Contents](#table-of-contents)
+  - [Project Description](#project-description)
+  - [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installing](#installing)
+  - [Features](#features)
+  - [Built With](#built-with)
+  - [Contributing](#contributing)
+  - [Authors and Acknowledgments](#authors-and-acknowledgments)
 
 ## Project Description
 
@@ -25,6 +28,7 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them.
 
 - Node.js
+
   ```bash
   npm install npm@latest -g
   ```
@@ -120,5 +124,3 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 ## Authors and Acknowledgments
 
 - Your Name
-```
-This README.md file provides detailed instructions and information about the E-Comsite project.
