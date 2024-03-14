@@ -1,6 +1,6 @@
 # E-Comsite
 
-A simple e-commerce website built with HTML, CSS, and JavaScript using Vite. The website features a product listing, add-to-cart functionality, price update feature that allows dynamic updating of prices without page reload, and a responsive design for different screen sizes.
+An e-commerce front-end website built with HTML, CSS, and JavaScript using Vite. The website features a product listing, add-to-cart functionality, price update feature that allows dynamic updating of prices without page reload, and a responsive design for different screen sizes.
 
 ## Table of Contents
 
