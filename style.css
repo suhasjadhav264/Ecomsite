@@ -780,8 +780,8 @@ footer {
 }
 
 .productImage {
-  /* max-width: 100%; */
-  width: 32rem;
+  max-width: 120%;
+  width: 20rem;
   height: auto;
 }
 
@@ -800,7 +800,7 @@ footer {
 
 .productProperty,
 .productDescription {
-  font-size: 1.6rem;
+  font-size: 1.3rem;
 }
 
 .stockElement {
@@ -915,7 +915,7 @@ footer {
   }
 
   & .productName {
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
 
   & .productPrice {
